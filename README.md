@@ -38,14 +38,13 @@ Relevant Modules:
 **CodeFirstGirls Data & SQL KickStarter** – Learned the fundamentals of data and SQL
 
 ## 💻 Technical Skills
-• Programming: Python, Java, JavaScript, HTML, CSS, C
-• Databases: SQL, MongoDB
-• Software Development: SDLC (Waterfall), OOP, requirements gathering, design, development
-• Productivity & Collaboration: Microsoft Office, Notion, Slack, Microsoft Teams
-• Other: LaTeX, Wireshark
+* Programming: Python, Java, JavaScript, HTML, CSS, C
+* Databases: SQL, MongoDB
+* Software Development: SDLC (Waterfall), OOP, requirements gathering, design, development
+* Productivity & Collaboration: Microsoft Office, Notion, Slack, Microsoft Teams
+* Other: LaTeX, Wireshark
 
 ## 🌱 Currently Exploring
-* Building a **Pomodoro Timer + Stretch Break Notifier*~
-* Expanding knowledge in **critical infrastructure security**
+* Building a **Pomodoro Timer + Stretch Break Notifier**
 - ⚡ Fun fact:  
   My name "Lacksha" means "white rose" in Tamil 🌹
