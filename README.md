@@ -1,7 +1,7 @@
 # Hi there, I'm Lacksha Jeyabraba 👋 | 😄 Pronouns: she/her
 💻 Computer Science Student @ University of Southampton
 
-I'm a second-year BSc Computer Science student at the University of Southampton with a growing interest in cybersecurity, data science, and impactful software development. I'm passionate about building digital tools that are both creative and meaningful — from mood trackers to animal rights advocacy websites.
+I'm a second-year BSc Computer Science student at the University of Southampton with a growing interest in cybersecurity, data science, and impactful software development. I'm passionate about building digital tools that are both creative and meaningful, from mood trackers to animal rights advocacy websites.
 
 ## 👩‍💻 Me
 * Computer Science undergraduate with experience in **Python**, **JavaScript**, **Java**, **C**, **SQL**, **Linux**, **HTML**, **CSS** and **MongoDB**
@@ -9,7 +9,7 @@ I'm a second-year BSc Computer Science student at the University of Southampton 
 * Active member of **University of Southampton Dance (USD)** and **Gaana Society**
 
 ## 🛠️ Projects
-* **Animal Injustice Website** — Educational site exploring topics like extinction, hunting, and animal protection (HTML/CSS/JS)
+* **Animal Injustice Website** - Educational site exploring topics like extinction, hunting, and animal protection (HTML/CSS/JS)
 * **Hangman** - This Java project replicates the classic Hangman word-guessing game, completed as part of my Java programming coursework
 * **Noughts & Crosses** - This project replicates the pencil/paper game commonly known as either Noughts & Crosses or Tic-Tac-Toe - completed as part of my Java programming coursework
 
