@@ -1,18 +1,11 @@
 # Hi there, I'm Lacksha Jeyabraba 👋 | 😄 Pronouns: she/her
 💻 Computer Science Student @ University of Southampton
 
-- 🔭 I’m currently working on:  
-  A website about **animal injustice** and a **habit-tracking app** with gamification features!
-
-- 🌱 I’m currently learning:  
-  Data & SQL, frontend development with HTML, CSS and JavaScript, and reading on data analytics and cybersecurity
-
 I'm a second-year BSc Computer Science student at the University of Southampton with a growing interest in cybersecurity, data science, and impactful software development. I'm passionate about building digital tools that are both creative and meaningful — from mood trackers to animal rights advocacy websites.
 
 ---
 
 ## 👩‍💻 Me
-
 * Computer Science undergraduate with experience in **Python**, **JavaScript**, **Java**, **C**, **SQL**, **Linux**, **HTML**, **CSS** and **MongoDB**
 * Interested in **cybersecurity**, **UX-focused web development**, and **creative tech projects**
 * Active member of **University of Southampton Dance (USD)** and **Gaana Society**
