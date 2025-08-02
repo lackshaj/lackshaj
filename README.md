@@ -33,9 +33,9 @@ Relevant Modules:
   Managed with a Gantt chart to meet deadlines despite illness
 
 ## 🧑‍💼 Work & Insight Experience
-**Kode With Klossy WebDev Summer Camp** – Applied HTML, CSS, and JavaScript to develop a fully responsive, multi-page website that covered critical issues like hunting, species extinction, and weak legal protections.
-**Mathematics Tutor** – Taught GCSE & A-Level Mathematics to students, provided personalised tutoring, assessed student progress through regular quizzes and feedback, utilised educational tools and resources to create interactive and effective lessons
-**CodeFirstGirls Data & SQL KickStarter** – Learned the fundamentals of data and SQL
+* **Kode With Klossy WebDev Summer Camp** - Applied HTML, CSS, and JavaScript to develop a fully responsive, multi-page website that covered critical issues like hunting, species extinction, and weak legal protections.
+* **Mathematics Tutor** - Taught GCSE & A-Level Mathematics to students, provided personalised tutoring, assessed student progress through regular quizzes and feedback, utilised educational tools and resources to create interactive and effective lessons
+* **CodeFirstGirls Data & SQL KickStarter** - Learned the fundamentals of data and SQL
 
 ## 💻 Technical Skills
 * Programming: Python, Java, JavaScript, HTML, CSS, C
