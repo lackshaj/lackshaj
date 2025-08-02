@@ -13,7 +13,6 @@ I'm a second-year BSc Computer Science student at the University of Southampton 
 ---
 
 ## 🛠️ Projects
-
 * **Animal Injustice Website** — Educational site exploring topics like extinction, hunting, and animal protection (HTML/CSS/JS)
 * **Hangman** - This Java project replicates the classic Hangman word-guessing game, completed as part of my Java programming coursework
 * **Noughts & Crosses** - This project replicates the pencil/paper game commonly known as either Noughts & Crosses or Tic-Tac-Toe - completed as part of my Java programming coursework
@@ -22,13 +21,12 @@ I'm a second-year BSc Computer Science student at the University of Southampton 
 
 ## 📫 Connect With Me
 
-* **LinkedIn**: \lackshajeyabraba
-* **Email**: \lacksha@hotmail.co.uk
+* **LinkedIn**: [lackshajeyabraba](https://www.linkedin.com/in/lacksha-jeyabraba/)
+* **Email**: lacksha@hotmail.co.uk
 
 ---
 
 ## 🎓 Education
-
 ### University of Southampton (2024–2027)
 
 **Bachelor of Science (BSc) in Computer Science**
@@ -46,7 +44,6 @@ Relevant Modules:
 ---
 
 ## 🧑‍💼 Work & Insight Experience
-
 **Kode With Klossy WebDev Summer Camp** – Applied HTML, CSS, and JavaScript to develop a fully responsive, multi-page website that covered critical issues like hunting, species extinction, and weak legal protections.
 **Mathematics Tutor** – Taught GCSE & A-Level Mathematics to students, provided personalised tutoring, assessed student progress through regular quizzes and feedback, utilised educational tools and resources to create interactive and effective lessons
 **CodeFirstGirls Data & SQL KickStarter** – Learned the fundamentals of data and SQL
@@ -63,13 +60,7 @@ Relevant Modules:
 ---
 
 ## 🌱 Currently Exploring
-
 * Building a **Pomodoro Timer + Stretch Break Notifier*~
 * Expanding knowledge in **critical infrastructure security**
-
-
-- 📫 How to reach me:  
-  Email: lacksha@hotmail.co.uk | LinkedIn: https://www.linkedin.com/in/lacksha-jeyabraba/
-  
 - ⚡ Fun fact:  
   My name "Lacksha" means "white rose" in Tamil 🌹
